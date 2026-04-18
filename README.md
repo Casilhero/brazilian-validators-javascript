@@ -5,6 +5,9 @@ Biblioteca TypeScript para validação, geração e formatação de documentos e
 [![npm](https://img.shields.io/npm/v/@casilhero/brazilian-validators)](https://www.npmjs.com/package/@casilhero/brazilian-validators)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+> Veja também as versões para outros ambientes:
+> [PHP puro](https://github.com/Casilhero/brazilian-validators) · [Laravel](https://github.com/Casilhero/brazilian-validators-laravel)
+
 ## Instalação
 
 ```bash

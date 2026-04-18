@@ -46,6 +46,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/casilhero/brazilian-validators"
+    "url": "git+https://github.com/casilhero/brazilian-validators.git"
   }
 }
